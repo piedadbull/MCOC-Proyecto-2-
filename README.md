@@ -11,9 +11,12 @@ Se tomarán como supuestos las siguientes condiciones:
 - Constante de lifting (Cl) = 0.2    
 - Constante de peso (Cm) = 0.5    
 
-Se tomará la ecuación de fuerza: 
+Se tomará la ecuación de fuerza, el area de la partícula (A), el volumen de la partícula (V) y la masa de la partícula (m), mostradas a continuación: 
 
      F=m*a
+     A = pi*(d/2)**2           
+     V = (4./3.)*pi*(d/2)**3   
+     m = rho_particula*V  
 
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados 
 
