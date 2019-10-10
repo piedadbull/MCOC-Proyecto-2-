@@ -17,12 +17,12 @@ Tiempo máximo de simulación (tmax) = 1 s
 Tiempo actual (ti) = 0 s
 
 
-Computador
-==========
+# Computador
+
 Mi computador es un MacBook Pro de 13-inch con un procesador 2 GHz Intel Core i5. Tiene 8 GB de memoria ram y un almacenamiento flash de 251 GB. Además, tiene una tarjeta gráfica Intel Iris Graphic 540 de 1536 MB.
 
-Resultados
-==========
+# Resultados
+
 El código se corrió con tres cantidades distintas de partículas.
 Primero se hizo la simulación con 4 partículas, con el cual se demoró 0,4 segundo en correr. Luego se volvió a realizar la simulación, pero con 11 partículas demorándose un tiempo de 34,7 segundos. Finalmente, el número de partículas fue 20, con el que demoró un tiempo mayor, el cual fue 194,9 segundos.
 
