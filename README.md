@@ -11,10 +11,11 @@ Se tomarán como supuestos las siguientes condiciones:
 - Constante de lifting (Cl) = 0.2    
 - Constante de peso (Cm) = 0.5    
 
-Se tomará la ecuación de fuerza:  F=m*a 
-Intervalo de tiempo en los que grafica la posición de la partícula (dt) = 0.001 s   
-Tiempo máximo de simulación (tmax) = 1 s   
-Tiempo actual (ti) = 0 s
+Se tomará la ecuación de fuerza: 
+
+     F=m*a
+
+El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados 
 
 
 ### Computador
