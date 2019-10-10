@@ -11,8 +11,8 @@ Se tomarán como supuestos las siguientes condiciones:
 - Constante de lifting (Cl) = 0.2    
 - Constante de peso (Cm) = 0.5    
 
-
-====== 
-
+Coputador
+ ==========
 Mi computador es un MacBook Pro de 13-inch con un procesador 2 GHz intel Core i5. Tiene 8 GB de memoria ram y un almacenamiento flash de 251 GB. Además tiene una tarjeta gráfica Intel Iris Graphic 540 de 1536 MB.
 Tiene un disco de arranque Macintosh HD
+
