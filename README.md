@@ -34,3 +34,4 @@ Los gráficos se muestran a continuación:
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/Grafico_con_11_particulas_(n=11).png)
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/Grafico_con_20_particulas_(n=20).png)
 
+
