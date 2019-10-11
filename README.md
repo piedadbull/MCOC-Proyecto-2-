@@ -30,5 +30,5 @@ Primero se hizo la simulación con 4 partículas, con el cual se demoró 49.9 se
 
 
 Los gráficos se muestran a continuación:
-![al text](https://github.com/piedadbull/MCOC-Proyecto-2/blob/master/Grafico_con_4_particulas_(n=4).png)
+![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/Grafico_con_4_particulas_(n=4).png)
 
