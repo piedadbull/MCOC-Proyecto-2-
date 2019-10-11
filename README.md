@@ -28,6 +28,7 @@ Mi computador es un MacBook Pro de 13-inch con un procesador 2 GHz Intel Core i5
 El código se corrió con tres cantidades distintas de partículas.
 Primero se hizo la simulación con 4 partículas, con el cual se demoró 49.9 segundo en correr. Luego se volvió a realizar la simulación, pero con 11 partículas demorándose un tiempo de 59.4 segundos. Finalmente, el número de partículas fue 20, con el que demoró un tiempo mayor, el cual fue 215.7 segundos.
 
+
 Los gráficos se muestran a continuación:
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/Grafico_con_4_particulas_(n=4).png)
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/Grafico_con_11_particulas_(n=11).png)
