@@ -26,6 +26,7 @@ Al comparar los datos que se obtuvieron a partir del código con los del profeso
 Por otro lado, no se logra hacer una validación para una mayor cantidad de particular con respecto al movimiento que se espera entre ellas, pero se logran valores parecidos igual. El tener un movimiento distinto se puede deber a una modelación distinta del choque entre particulas.
 
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_11.png)
+
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_20.png)
 
 ### Computador
