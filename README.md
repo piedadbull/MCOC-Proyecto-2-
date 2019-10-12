@@ -15,7 +15,17 @@ Se tomarán como supuestos las siguientes condiciones:
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados.
 
 
+### Validación
 
+Validación
+
+Al comparar los datos que se obtuvieron a partir del código con los del profesor, se puede ver una similitud para 2 particulas, con una diferencia de un decimal, lo cual se puede justificar por temas de unidades, pero se logra hacer una validación por los resultados obtenidos que se mueven en un rango parecido haciendo la excepción del decimal.
+
+![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_2particulas.png)
+
+Por otro lado, no se logra hacer una validación para una mayor cantidad de particular con respecto al movimiento que se espera entre ellas, pero se logran valores parecidos igual. El tener un movimiento distinto se puede deber a una modelación distinta del choque entre particulas.
+
+![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_20.png)
 
 ### Computador
 
