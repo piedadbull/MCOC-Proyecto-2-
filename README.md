@@ -27,7 +27,7 @@ Por otro lado, no se logra hacer una validación para una mayor cantidad de part
 
 ![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_11.png)
 
-![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_20.png)
+![al text](https://github.com/piedadbull/MCOC-Proyecto-2-/blob/master/figure_20..png)
 
 ### Computador
 
