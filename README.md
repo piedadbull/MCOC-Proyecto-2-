@@ -36,7 +36,7 @@ Mi computador es un MacBook Pro de 13-inch con un procesador 2 GHz Intel Core i5
 ### Resultados
 
 El código se corrió con tres cantidades distintas de partículas.
-Primero se hizo la simulación con 4 partículas, con el cual se demoró 49.9 segundo en correr. Luego se volvió a realizar la simulación, pero con 11 partículas demorándose un tiempo de 192.4 segundos. Finalmente, el número de partículas fue 20, con el que demoró un tiempo mayor, el cual fue 415.7 segundos.
+Primero se hizo la simulación con 4 partículas, con el cual se demoró 87.9 segundo en correr. Luego se volvió a realizar la simulación, pero con 11 partículas demorándose un tiempo de 192.4 segundos. Finalmente, el número de partículas fue 20, con el que demoró un tiempo mayor, el cual fue 415.7 segundos.
 
 
 Los gráficos se muestran a continuación:
